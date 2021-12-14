@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\d8abb1116236325b8f45ef726e4364c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\a08a1913052a6d1191b5bf38e9d3f551\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\3858c6e2e626f70f649e46c33e648419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\2be5752df1c5b491a50590197fcba0e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\b2e5468a38211cbe5520fe35b1ff0d64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\e62e604fad4584be8ff741fb3d0f6780\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\0815bab14a8ff03f440f4225d202829e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\45d32edd7e78da75dd90df009b16be25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\19be3891f70e87352b2cd45247ad111b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6406ea5f17266c26fedf8e78054e5be2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\0ef784c16e225ee12dd887c03c5107f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\1fc93c729a17c6925e3d69a158a81f5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\a225f52547ad11673dcb4ae81819381a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ab724260e29a47bd45d77d6922dbf6b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ae38736d291c884c76498574fbb4d2e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\373fdd69ef59ddb36a27f4413452d7f9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\866d0dc53ca6fd29bcd0b2a152c6cad0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6f4b146862be735a452b573b35149fac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\bb0f07f7dc82f83962eccabec05e456a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\7d45d758c575a234edc348527f136bb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6f99aa7e48e48d6efda81f2b18832dd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\b0a19cb825381e64eda1b72cae21b0f2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\98e8b67eef56e2ac61eca02f911b49d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\49e382ba49097c4998c0215dfcf691a4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ccf9da432bfd3916494b108f4e49358c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\d26191b034e7b51808c306d35c30ce05\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\302e0a3964e6293e926e59a99079af7a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:10:5-40:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\373fdd69ef59ddb36a27f4413452d7f9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\373fdd69ef59ddb36a27f4413452d7f9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\866d0dc53ca6fd29bcd0b2a152c6cad0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\866d0dc53ca6fd29bcd0b2a152c6cad0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\373fdd69ef59ddb36a27f4413452d7f9\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:13:9-59
+	tools:ignore
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:19:9-48
+	android:roundIcon
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:11:9-33
+activity#com.quaap.bookymcbookface.BookListActivity
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:20:9-31:20
+	android:screenOrientation
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:22:13-49
+	android:launchMode
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:23:13-43
+	android:name
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:21:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:27:27-74
+meta-data#android.app.shortcuts
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:29:13-30:53
+	android:resource
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:30:17-50
+	android:name
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:29:24-60
+activity#com.quaap.bookymcbookface.ReaderActivity
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:32:9-35:62
+	android:screenOrientation
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:34:13-49
+	android:parentActivityName
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:35:13-59
+	android:name
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:33:13-43
+activity#com.quaap.bookymcbookface.GetBooksActivity
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:36:9-39:62
+	android:screenOrientation
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:38:13-49
+	android:parentActivityName
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:39:13-59
+	android:name
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:37:13-45
+uses-sdk
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\d8abb1116236325b8f45ef726e4364c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\d8abb1116236325b8f45ef726e4364c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\a08a1913052a6d1191b5bf38e9d3f551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\a08a1913052a6d1191b5bf38e9d3f551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\3858c6e2e626f70f649e46c33e648419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\3858c6e2e626f70f649e46c33e648419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\2be5752df1c5b491a50590197fcba0e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\2be5752df1c5b491a50590197fcba0e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\b2e5468a38211cbe5520fe35b1ff0d64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\b2e5468a38211cbe5520fe35b1ff0d64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\e62e604fad4584be8ff741fb3d0f6780\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\e62e604fad4584be8ff741fb3d0f6780\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\0815bab14a8ff03f440f4225d202829e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\0815bab14a8ff03f440f4225d202829e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\45d32edd7e78da75dd90df009b16be25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\45d32edd7e78da75dd90df009b16be25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\19be3891f70e87352b2cd45247ad111b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\19be3891f70e87352b2cd45247ad111b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6406ea5f17266c26fedf8e78054e5be2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6406ea5f17266c26fedf8e78054e5be2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\0ef784c16e225ee12dd887c03c5107f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\0ef784c16e225ee12dd887c03c5107f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\1fc93c729a17c6925e3d69a158a81f5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\1fc93c729a17c6925e3d69a158a81f5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\a225f52547ad11673dcb4ae81819381a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\a225f52547ad11673dcb4ae81819381a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ab724260e29a47bd45d77d6922dbf6b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ab724260e29a47bd45d77d6922dbf6b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ae38736d291c884c76498574fbb4d2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ae38736d291c884c76498574fbb4d2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\373fdd69ef59ddb36a27f4413452d7f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\373fdd69ef59ddb36a27f4413452d7f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\866d0dc53ca6fd29bcd0b2a152c6cad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\866d0dc53ca6fd29bcd0b2a152c6cad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6f4b146862be735a452b573b35149fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6f4b146862be735a452b573b35149fac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\bb0f07f7dc82f83962eccabec05e456a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\bb0f07f7dc82f83962eccabec05e456a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\7d45d758c575a234edc348527f136bb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\7d45d758c575a234edc348527f136bb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6f99aa7e48e48d6efda81f2b18832dd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\6f99aa7e48e48d6efda81f2b18832dd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\b0a19cb825381e64eda1b72cae21b0f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\b0a19cb825381e64eda1b72cae21b0f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\98e8b67eef56e2ac61eca02f911b49d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\98e8b67eef56e2ac61eca02f911b49d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\49e382ba49097c4998c0215dfcf691a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\49e382ba49097c4998c0215dfcf691a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ccf9da432bfd3916494b108f4e49358c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ccf9da432bfd3916494b108f4e49358c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\d26191b034e7b51808c306d35c30ce05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\d26191b034e7b51808c306d35c30ce05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\302e0a3964e6293e926e59a99079af7a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\302e0a3964e6293e926e59a99079af7a\AndroidManifest.xml:20:5-44
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml

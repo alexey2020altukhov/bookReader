@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="getbook_names">
+        <item>Project Gutenberg</item>
+        <item>Archive.org</item>
+    </string-array>
+    <string-array name="getbook_urls">
+        <item>http://m.gutenberg.org/</item>
+        <item>https://archive.org/details/texts</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Eliminar"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Intro"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Mayús +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Espacio"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="about">Acerca de</string>
+    <string name="about_app">
+        <![CDATA[
+
+        Booky McBookface es un software de codigo abierto licenciado bajo GPLv3.\n\n
+
+        Consigue ayuda y ve el la licencia y el codigo completo en \n
+        https://github.com/quaap/BookyMcBookface\n\n
+
+        Este programa fue escrito por Tom Kliethermes.
+        ]]>
+    </string>
+    <string name="add">Añadir libro</string>
+    <string name="add_dir">Añadir libros de carpeta</string>
+    <string name="added_numbooks">Añadidos %d</string>
+    <string name="already_added">Archivo \"%s\" ya esta añadido</string>
+    <string name="app_name">Booky McBookface</string>
+    <string name="author">Autor</string>
+    <string name="auto_bright">Auto</string>
+    <string name="book_added_on">Añadido %s</string>
+    <string name="book_bug">Algo salió mal. Por favor reporte este libro como un error.</string>
+    <string name="book_default">Por defecto</string>
+    <string name="book_status_any">Todos los libros</string>
+    <string name="book_status_completed">Completado %s</string>
+    <string name="book_status_completed2">Libros marcados \'Completado\'</string>
+    <string name="book_status_later">Para después (%s)</string>
+    <string name="book_status_later2">Libros marcados \'Para después\'</string>
+    <string name="book_status_none">Libros no leidos</string>
+    <string name="book_status_started">Abrir libros</string>
+    <string name="book_viewed_on">Visto %s</string>
+    <string name="books_added">%d libros añadidos</string>
+    <string name="both">Los dos</string>
+    <string name="bright">Claro</string>
+    <string name="bright_medium">Medio</string>
+    <string name="cancel">Cancelar</string>
+    <string name="close_book">Cerrar libro</string>
+    <string name="contents">Contenidos</string>
+    <string name="coulndt_add_book">No se pudo añadir \"%s\"</string>
+    <string name="dim">Oscuro</string>
+    <string name="enable_screen_paging">Enable screen paging</string>
+    <string name="enable_scroll">Enable drag scroll</string>
+    <string name="find_book">Buscar libro</string>
+    <string name="find_books_online">Busca libros en línea</string>
+    <string name="find_folder">Buscar carpeta</string>
+    <string name="getbooks_desc">Los siguientes enlaces se abreran en tu navegador web. Los libros descargados seran puestos en la carpeta de descarga del navegador.</string>
+    <string name="hint_search_text">Little Women</string>
+    <string name="last_read">Última vez leído</string>
+    <string name="loading">Cargando</string>
+    <string name="mark">Mostrar…</string>
+    <string name="mark_completed">Marcar \'Completado\'</string>
+    <string name="mark_later">Marcar \'Para después\'</string>
+    <string name="new_websrc">Nuevo</string>
+    <string name="no_toc_found">No se encontró una tabla de contenidos</string>
+    <string name="open_book">Abrir libro</string>
+    <string name="options">Options</string>
+    <string name="remove_book">Remover libro</string>
+    <string name="search_for">Busqueda para:</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="search_res_title">Busqueda para \'%1$s\' (%2$d)</string>
+    <string name="search_your_books">Busca tus libros</string>
+    <string name="select_thisfolder">Seleccionar esta carpeta</string>
+    <string name="shortcut_latest">Seguir leyendo</string>
+    <string name="shortcut_latest_title">Leer %s</string>
+    <string name="sort">Ordenar por</string>
+    <string name="sort_by_added_date">Ordenar por fecha agregado</string>
+    <string name="sort_by_author">Ordenar por autor</string>
+    <string name="sort_by_default">Orden por defecto</string>
+    <string name="sort_by_title">Ordenar por titulo</string>
+    <string name="source_name">Nombre de fuente</string>
+    <string name="start_options">Opciones de inicio</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="title">Titulo</string>
+    <string name="un_mark">Remover marca</string>
+    <string name="web_add">Añadir</string>
+    <string name="web_url">URL</string>
+    <string name="zoom">zoom</string>
+</resources>
