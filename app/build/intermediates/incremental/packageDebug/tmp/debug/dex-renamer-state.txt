@@ -1,4 +1,4 @@
-#Tue Dec 14 18:44:34 MSK 2021
+#Tue Dec 14 19:10:06 MSK 2021
 base.0=D\:\\VSTU 2022\\Android Application Development\\Coursework\\BookReader\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 renamed.0=classes.dex
 path.0=classes.dex

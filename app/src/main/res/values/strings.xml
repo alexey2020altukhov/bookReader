@@ -1,96 +1,90 @@
 <resources>
     <string name="app_name">Booky McBookface</string>
-    <string name="book_viewed_on">Viewed %s</string>
-    <string name="book_added_on">Added %s</string>
+    <string name="book_viewed_on">Была открыта %s</string>
+    <string name="book_added_on">Доб. %s</string>
+    <string name="add">Добавить книгу</string>
+    <string name="add_dir">Добавить</string>
+    <string name="contents">Содержание</string>
+    <string name="zoom">Увеличить</string>
+    <string name="already_added">Файл \"%s\" уже добавлен</string>
+    <string name="select_thisfolder">Выбрать</string>
+    <string name="cancel">Отменить</string>
+    <string name="find_folder">Выберите папку</string>
+    <string name="find_book">Найти книгу</string>
+    <string name="open_book">Читать</string>
+    <string name="close_book">Закрыть</string>
+    <string name="remove_book">Удалить</string>
+    <string name="coulndt_add_book">Не удалось добавить \"%s\"</string>
 
-    <string name="book_status_completed">Completed %s</string>
-    <string name="book_status_later">Later (%s)</string>
-    <string name="book_status_later2">Books marked \'Later\'</string>
-    <string name="book_status_completed2">Books marked \'Completed\'</string>
-    <string name="book_status_any">All books</string>
-    <string name="book_status_started">Open books</string>
-    <string name="book_status_none">Unread books</string>
-    <string name="mark">Show…</string>
+    <string name="book_status_completed">Прочитана %s</string>
+    <string name="book_status_later">позже (%s)</string>
+    <string name="book_status_later2">Почитать позже</string>
+    <string name="book_status_completed2">Прочитанные</string>
+    <string name="book_status_any">Список книг</string>
+    <string name="book_status_started">Открытые книги</string>
+    <string name="book_status_none">Непрочитанные книги</string>
+    <string name="mark">Метки</string>
+    <string name="un_mark">Отменить метку</string>
+    <string name="mark_later">Почитать позже</string>
+    <string name="mark_completed">Прочитана</string>
 
-    <string name="un_mark">Unmark</string>
-    <string name="mark_later">Mark \'For later\'</string>
-    <string name="mark_completed">Mark \'Completed\'</string>
-
-    <string name="add">Add book</string>
-    <string name="add_dir">Add books from folder</string>
-    <string name="contents">Contents</string>
-    <string name="zoom">zoom</string>
-    <string name="already_added">File \"%s\" already added</string>
-    <string name="select_thisfolder">Select this folder</string>
-    <string name="cancel">Cancel</string>
-    <string name="find_folder">Find folder</string>
-    <string name="find_book">Find book</string>
-    <string name="open_book">Open book</string>
-    <string name="close_book">Close book</string>
-    <string name="remove_book">Remove book</string>
-    <string name="coulndt_add_book">Couldn\'t add \"%s\"</string>
-
-    <string name="about">About</string>
+    <string name="about">О приложении</string>
     <string name="about_app">
         <![CDATA[
-
-        Booky McBookface is opensource software licenced under the GPLv3.\n\n
-
-        Get help and see the full license and sourcecode at \n
+        Booky McBookface - открытый исходный код с лицензией GPLv3.\n\n
+        Справку и полное описание лицензии можно посмотреть на \n
         https://github.com/quaap/BookyMcBookface\n\n
-
-        This program was written by Tom Kliethermes.
+        Программа написана Tom Kliethermes.
         ]]>
     </string>
-    <string name="sort">Sort</string>
-    <string name="sort_by_default">Default sort</string>
+    <string name="sort">Сортировать</string>
     <string name="sort_by_added_date">Sort by added</string>
-    <string name="sort_by_title">Sort by title</string>
-    <string name="sort_by_author">Sort by author</string>
+    <string name="sort_by_title">По названию</string>
+    <string name="sort_by_author">По автору</string>
     <string translatable="false" name="prev_text">&lt;&lt;</string>
     <string translatable="false" name="next_text">&gt;&gt;</string>
-    <string name="books_added">%d books added</string>
-    <string name="bright">Bright</string>
-    <string name="dim">Dim</string>
-    <string name="bright_medium">Medium</string>
-    <string name="book_default">Book default</string>
-    <string name="no_toc_found">No table of contents found</string>
-    <string name="added_numbooks">Added %d</string>
-    <string name="loading">Loading</string>
-    <string name="find_books_online">Find books online</string>
-    <string name="source_name">Source name</string>
+    <string name="books_added">%d книги добавлены</string>
+    <string name="bright">Яркий</string>
+    <string name="dim">Тусклый</string>
+    <string name="bright_medium">Средний</string>
+    <string name="book_default">По умолчанию</string>
+    <string name="no_toc_found">Оглавление не найдено</string>
+    <string name="added_numbooks">Добавлен %d</string>
+    <string name="loading">Загрузка</string>
+    <string name="find_books_online">Найти книги онлайн</string>
+    <string name="source_name">Название</string>
     <string name="web_url">URL</string>
-    <string name="web_add">Add</string>
-    <string name="getbooks_desc">The links below will open in your web browser. Downloaded books will be placed in the web browser\'s default download location.</string>
-    <string name="new_websrc">New</string>
+    <string name="web_add">Добавить</string>
+    <string name="getbooks_desc">В вашем веб-браузере откроются ссылки ниже. Загруженные книги будут размещены в папке загрузки веб-браузера.</string>
+    <string name="new_websrc">Добавить источник</string>
     <string translatable="false" name="web_url_hint">http://www.</string>
-    <string name="search_res_title">Search for \'%1$s\' (%2$d)</string>
-    <string name="search_for">Search for:</string>
-    <string name="hint_search_text">Little Women</string>
-    <string name="title">Title</string>
-    <string name="author">Author</string>
-    <string name="both">Both</string>
-    <string name="search_your_books">Search your books</string>
+    <string name="search_res_title">Поиск \'%1$s\' (%2$d)</string>
+    <string name="search_for">Искать:</string>
+    <string name="hint_search_text">Анна Каренина</string>
+    <string name="title">Название</string>
+    <string name="author">Автор</string>
+    <string name="both">Все</string>
+    <string name="search_your_books">Поиск по книгам</string>
     <string name="start_options">Start options</string>
     <string name="last_read">Last read</string>
     <string name="shortcut_latest">Continue reading</string>
     <string name="shortcut_latest_title">Read %s</string>
     <string name="book_bug">Something went wrong. Please report this book as a bug.</string>
-    <string name="auto_bright">Auto</string>
 
     <string name="enable_screen_paging">Enable screen paging</string>
     <string name="enable_scroll">Enable drag scroll</string>
-    <string name="options">Options</string>
-
 
     <!-- if your language/country has its own sites change or add them here -->
     <string-array name="getbook_names">
-        <item>Project Gutenberg</item>
+        <item>Проект Gutenberg</item>
         <item>Archive.org</item>
     </string-array>
     <string-array name="getbook_urls">
         <item>http://m.gutenberg.org/</item>
         <item>https://archive.org/details/texts</item>
     </string-array>
+    <string name="sort_by_default">По умолчанию</string>
+    <string name="auto_bright">Auto</string>
+    <string name="options">Options</string>
 
 </resources>
