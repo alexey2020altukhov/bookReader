@@ -752,10 +752,6 @@
         "source": "C:\\Users\\Alexey\\.gradle\\caches\\transforms-2\\files-2.1\\d8abb1116236325b8f45ef726e4364c3\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\VSTU 2022\\Android Application Development\\Coursework\\BookReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_get_books.xml.flat",
-        "source": "D:\\VSTU 2022\\Android Application Development\\Coursework\\BookReader\\app\\src\\main\\res\\layout\\activity_get_books.xml"
-    },
-    {
         "merged": "D:\\VSTU 2022\\Android Application Development\\Coursework\\BookReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
         "source": "C:\\Users\\Alexey\\.gradle\\caches\\transforms-2\\files-2.1\\373fdd69ef59ddb36a27f4413452d7f9\\res\\layout-v21\\notification_action.xml"
     },

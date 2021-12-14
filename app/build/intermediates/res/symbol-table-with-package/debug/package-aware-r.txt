@@ -697,7 +697,6 @@ id menu_completed_books
 id menu_enable_screen_paging
 id menu_enable_scroll
 id menu_extra_options
-id menu_get_books
 id menu_later_books
 id menu_mark
 id menu_open_books
@@ -787,14 +786,6 @@ id topPanel
 id uniform
 id up
 id useLogo
-id web_add
-id web_add_layout
-id web_list_scroll
-id web_name
-id web_new
-id web_url
-id webs_desc
-id webs_list
 id withText
 id wrap_content
 id zoom_button
@@ -832,7 +823,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_book_list
-layout activity_get_books
 layout activity_reader
 layout book_list_item
 layout notification_action

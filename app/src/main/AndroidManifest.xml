@@ -33,10 +33,6 @@
             android:name=".ReaderActivity"
             android:screenOrientation="portrait"
             android:parentActivityName=".BookListActivity" />
-        <activity
-            android:name=".GetBooksActivity"
-            android:screenOrientation="portrait"
-            android:parentActivityName=".BookListActivity" />
     </application>
 
 </manifest>

@@ -41,10 +41,6 @@
             android:name="com.quaap.bookymcbookface.ReaderActivity"
             android:parentActivityName="com.quaap.bookymcbookface.BookListActivity"
             android:screenOrientation="portrait" />
-        <activity
-            android:name="com.quaap.bookymcbookface.GetBooksActivity"
-            android:parentActivityName="com.quaap.bookymcbookface.BookListActivity"
-            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

@@ -379,7 +379,6 @@ public class BookListActivity extends AppCompatActivity {
 
         menu.findItem(R.id.menu_add).setVisible(!showingSearch);
         menu.findItem(R.id.menu_add_dir).setVisible(!showingSearch);
-        menu.findItem(R.id.menu_get_books).setVisible(!showingSearch);
         menu.findItem(R.id.menu_sort).setVisible(!showingSearch);
 
         MenuItem screenPaging = menu.findItem(R.id.menu_enable_screen_paging);
@@ -447,10 +446,6 @@ public class BookListActivity extends AppCompatActivity {
                 item.setChecked(true);
                 setSortOrder(SortOrder.Added);
                 pop = true;
-                break;
-            case R.id.menu_get_books:
-                Intent intent = new Intent(this, GetBooksActivity.class);
-                startActivity(intent);
                 break;
             case R.id.menu_completed_books:
                 pop = true;

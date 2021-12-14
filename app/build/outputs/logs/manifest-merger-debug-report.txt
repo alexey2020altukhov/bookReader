@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\d8abb1116236325b8f45ef726e4364c3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\a08a1913052a6d1191b5bf38e9d3f551\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\3858c6e2e626f70f649e46c33e648419\AndroidManifest.xml:17:1-22:12
@@ -31,9 +31,9 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Alexey\.gradle\ca
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\ccf9da432bfd3916494b108f4e49358c\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\d26191b034e7b51808c306d35c30ce05\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\302e0a3964e6293e926e59a99079af7a\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:4:5-40
 		INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml
@@ -55,7 +55,7 @@ ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\ap
 	android:name
 		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:8:22-77
 application
-ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:10:5-40:19
+ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:10:5-36:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\373fdd69ef59ddb36a27f4413452d7f9\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\373fdd69ef59ddb36a27f4413452d7f9\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Alexey\.gradle\caches\transforms-2\files-2.1\866d0dc53ca6fd29bcd0b2a152c6cad0\AndroidManifest.xml:22:5-23:19
@@ -112,14 +112,6 @@ ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\ap
 		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:35:13-59
 	android:name
 		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:33:13-43
-activity#com.quaap.bookymcbookface.GetBooksActivity
-ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:36:9-39:62
-	android:screenOrientation
-		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:38:13-49
-	android:parentActivityName
-		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:39:13-59
-	android:name
-		ADDED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml:37:13-45
 uses-sdk
 INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\VSTU 2022\Android Application Development\Coursework\BookReader\app\src\main\AndroidManifest.xml

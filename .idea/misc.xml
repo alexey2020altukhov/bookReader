@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/VSTU 2022/Android Application Development/Coursework/BookReader/app/src/main/res/layout/activity_get_books.xml" value="0.13020833333333334" />
+        <entry key="..\:/VSTU 2022/Android Application Development/Coursework/BookReader/app/src/main/res/layout/activity_book_list.xml" value="0.13020833333333334" />
+        <entry key="..\:/VSTU 2022/Android Application Development/Coursework/BookReader/app/src/main/res/layout/activity_get_books.xml" value="0.2" />
         <entry key="..\:/VSTU 2022/Android Application Development/Coursework/BookReader/app/src/main/res/layout/activity_reader.xml" value="0.13020833333333334" />
+        <entry key="..\:/VSTU 2022/Android Application Development/Coursework/BookReader/app/src/main/res/layout/book_list_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/VSTU 2022/Android Application Development/Coursework/BookReader/app/src/main/res/layout/search.xml" value="0.13020833333333334" />
+        <entry key="..\:/VSTU 2022/Android Application Development/Coursework/BookReader/app/src/main/res/menu/options.xml" value="0.4" />
       </map>
     </option>
   </component>
